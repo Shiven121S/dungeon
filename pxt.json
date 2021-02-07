@@ -1,0 +1,32 @@
+{
+    "name": "Dungeon",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.14.55",
+        "tag": "v0.14.55",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/2134df81a3cf588cea63d9d8e8f511132a3d055e",
+        "target": "1.3.42",
+        "pxt": "5.30.21",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
